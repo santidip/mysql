@@ -6,4 +6,4 @@ _en este repositorio encontraras bases de datos creadas por mi desde cero. en el
  
 _TP FINAL.SQL fue mi primer base de datos creada. la misma la cree a medida que iba aplicando los conocimientos de un curso realizado en tecno 3F._
 
-
+[Documentacion](https://docs.google.com/document/d/1Egw3AGwWQxUsbo_A1vjsFnNGqKsBaEqd0E91KCY_YcI/edit)
