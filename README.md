@@ -10,4 +10,4 @@ _TP FINAL.SQL fue mi primer base de datos creada. la misma la cree a medida que 
 
 > EXAMEN.SQL
 
-_Examen.sql fueron los ultimo ejercicios hechos en el curso de tecno3F y se queria aperentar que fue un examen tecnico de una entrevista de trabajo._ 
+_Examen.sql fueron los ultimo ejercicios hechos en el curso de tecno3F y se queria aperentar que fuera un examen tecnico de una entrevista de trabajo._ 
