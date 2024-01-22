@@ -11,3 +11,7 @@ _TP FINAL.SQL fue mi primer base de datos creada. la misma la cree a medida que 
 > EXAMEN.SQL
 
 _Examen.sql fueron los ultimo ejercicios hechos en el curso de tecno3F y se queria aperentar que fuera un examen tecnico de una entrevista de trabajo._ 
+
+>PROYECTO 1
+
+_PROYECTO 1.SQL esta es una base de datos pequeña donde la mayoria de de datos fueron ingresados con archivos csv. ademas se crearon dos indices y usuarios para esta base de datos, junto con algunos puntos de guardado._
